@@ -14,7 +14,7 @@ public class arrays1 {
 		 }
 		 System.out.println(splitarr[3]);
 		 for(String i: splitarr) {
-			 System.out.println("Thos is anothr way od spliting  "+i);
+			 System.out.println("This is another way of spliting  "+i);
 		 }
 		          
 
